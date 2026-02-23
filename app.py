@@ -9,7 +9,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>CCIT ConfigMap + Secret Demo</title>
+        <title>CCIT ConfigMap + Secret Demo - CCIT</title>
         <style>
             body {{
                 margin: 0;
